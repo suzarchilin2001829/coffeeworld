@@ -1,0 +1,17 @@
+@font-face{
+	font-family: 'Noto1';
+	src:url('font/Noto_Serif/NotoSerif-Regular.ttf');
+}
+
+@font-face{
+	font-family: 'Noto2';
+	src:('font/Noto_Serif/NotoSerif-Bold.ttf');
+}
+@font-face{
+	font-family: 'Noto3';
+	src:('font/Noto_Serif/NotoSerif-Italic.ttf');
+}
+@font-face{
+	font-family: 'Noto4';
+	src:('font/Noto_Serif/NotoSerif-BoldItalic.ttf');
+}
